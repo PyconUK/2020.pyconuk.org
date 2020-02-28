@@ -1,0 +1,59 @@
+---
+---
+@import "fonts.scss";
+@import "mixins.scss";
+
+$red: #e31c22;
+$yellow: #fecb2f;
+$blue: #007bff;
+
+$default-padding: 1em;
+$max-width: 750px;
+
+body {
+  margin:  0;
+  padding: 0;
+  background: $yellow;
+  line-height: 1.6;
+  font-family: "IBM Plex Serif", serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+}
+
+main {
+  background: white;
+
+  #main_inner {
+    @include central_element();
+  }
+
+  // For the footer
+  padding-bottom: 10vw;
+
+  h1, h2, h3, h4, h5 {
+    font-family: Raleway;
+  }
+}
+
+a {
+  @include link_styles($blue, 0.3);
+}
+
+.dot_list {
+  list-style-type: none;
+  padding-left: 0px !important;
+
+  // Ensure they all display in a line
+  li {
+    display: inline;
+    &:not(:first-child)::before {
+      content: " · ";
+    }
+  }
+}
+
+@import "header.scss";
+@import "footer.scss";
+@import "columns.scss";
+@import "snakes.scss";

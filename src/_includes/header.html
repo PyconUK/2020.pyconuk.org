@@ -1,14 +1,53 @@
 <aside>
   <div id="aside_inner">
-    <h1 id="brand"><a href="/">{{ site.title | escape }}</a></h1>
+    <style>
+      img {
+        float: right;
+        height: 150px;
+        margin-top: 10px;
+      }
+    </style>
+
+    <!--
+      This is an entirely frivolous thing: we randomly select a snake for
+      the user to see.  A gratuitous use of JavaScript!
+
+      But what if the user doesn't have JavaScript enabled?  Select a random
+      snake for the fallback, too -- it only gets reselected when we rebuild
+      with Jekyll, but means the snake will continue to rotate.
+    -->
+    {% assign snake_colours = "red|blue|yellow|green|orange" | split: "|" %}
+
+    <div id="header_snake">
+      <img src="/images/{{ snake_colours | sample: 1 }}_snake.png">
+    </div>
+
+    <script>
+      const colours = ["red", "blue", "yellow", "green", "orange"];
+
+      // https://stackoverflow.com/a/9071606/1558022
+      function choose(choices) {
+        var index = Math.floor(Math.random() * choices.length);
+        return choices[index];
+      }
+
+      const snakeColour = choose(colours);
+
+      document.getElementById("header_snake").innerHTML = "<img src=\"/images/" + snakeColour + "_snake.png\">";
+    </script>
+
+    <h1>{{ site.title | escape }}</h1>
+
+    <h3>Cardiff City Hall<br/>Saturday 10th to Wednesday 14th October</h3>
 
     <div id="aside_links">
       <ul class="dot_list">
-        <li><a href="/best-of/">favourite posts</a></li>
-        <li><a href="/all-posts/">all posts</a></li>
-        <li><a href="/talks/">talks</a></li>
-        <li><a href="https://twitter.com/alexwlchan/">twitter</a></li>
-        <li><a href="/atom.xml">rss</a></li>
+        <li><a href="/">Home</a></li>
+        <li><a href="/sponsor/">Become a sponsor</a></li>
+        <li><a href="/schedule/">Schedule</a></li>
+        <li><a href="/venue/">Venue</a></li>
+        <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+        <li><a href="/inclusion/">Inclusion</a></li>
       </ul>
     </div>
   </div>

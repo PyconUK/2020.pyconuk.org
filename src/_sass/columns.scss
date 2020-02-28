@@ -1,0 +1,44 @@
+.row {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-auto-flow: column;
+  grid-gap: $default-padding;
+
+  .box {
+    border: 3px solid;
+    border-radius: 5px;
+    padding: $default-padding;
+
+    h2:first-child, h3:first-child, h4:first-child {
+      margin-top: 0;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+
+    &_left {
+      grid-column: 1 / 2;
+    }
+
+    &_right {
+      grid-column: 2 / 2;
+    }
+
+    &_blue {
+      border-color: $blue;
+
+      h2, h3, h4 {
+        color: $blue;
+      }
+    }
+
+    &_red {
+      border-color: $red;
+
+      h2, h3, h4 {
+        color: $red;
+      }
+    }
+  }
+}

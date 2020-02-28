@@ -6,7 +6,15 @@
   <body>
     {% include header.html %}
 
-    {{ content }}
+    <main>
+      <div id="main_inner">
+        {% if page.title %}
+        <h1>{{ page.title }}</h1>
+        {% endif %}
+
+        {{ content }}
+      </div>
+    </main>
 
     {% include footer.html %}
   </body>
