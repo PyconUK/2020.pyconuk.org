@@ -1,5 +1,6 @@
 aside {
   position: relative;
+//  background: url(/theme/cardiff.svg);
 
   a {
     @include link_styles(black, 0.25);
@@ -29,6 +30,30 @@ aside {
     h3 {
 //      margin-top: 0;
       font-weight: normal;
+    }
+
+    img {
+      float: right;
+      height: 150px;
+      margin-top: 10px;
+    }
+
+    .flip-horizontally {
+      transform: scaleX(-1);
+    }
+
+    @media screen and (max-width: 400px) {
+      img {
+        display: none;
+      }
+
+      h1 {
+        font-size: 1.8em;
+      }
+
+      h3 {
+        font-size: 0.9em;
+      }
     }
   }
 

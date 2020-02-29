@@ -1,13 +1,5 @@
 <aside>
   <div id="aside_inner">
-    <style>
-      img {
-        float: right;
-        height: 150px;
-        margin-top: 10px;
-      }
-    </style>
-
     <!--
       This is an entirely frivolous thing: we randomly select a snake for
       the user to see.  A gratuitous use of JavaScript!
@@ -33,7 +25,13 @@
 
       const snakeColour = choose(colours);
 
-      document.getElementById("header_snake").innerHTML = "<img src=\"/images/" + snakeColour + "_snake.png\">";
+      if (Math.random() > 0.5) {
+        var imageHTML = "<img src=\"/images/" + snakeColour + "_snake.png\">";
+      } else {
+        var imageHTML = "<img class=\"flip-horizontally\" src=\"/images/" + snakeColour + "_snake.png\">";
+      }
+
+      document.getElementById("header_snake").innerHTML = imageHTML;
     </script>
 
     <h1>{{ site.title | escape }}</h1>
