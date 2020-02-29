@@ -6,7 +6,8 @@ footer {
 
   #footer_inner {
     text-align: center;
-    @include central_element();
+    @include centred($max-width - 100px);
+    padding: 1px $default-padding;
   }
 
   a {

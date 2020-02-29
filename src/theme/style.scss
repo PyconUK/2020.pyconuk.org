@@ -8,7 +8,7 @@ $yellow: #fecb2f;
 $blue: #007bff;
 
 $default-padding: 1em;
-$max-width: 750px;
+$max-width: 800px;
 
 body {
   margin:  0;
@@ -49,6 +49,24 @@ a {
     display: inline;
     &:not(:first-child)::before {
       content: " · ";
+    }
+  }
+}
+
+figure {
+  margin: 0;
+  max-width: 100%;
+
+  img {
+    max-width: 100%;
+  }
+
+  figcaption {
+    font-size: small;
+    color: #777;
+
+    a {
+      @include link_styles(#777, 0.3);
     }
   }
 }

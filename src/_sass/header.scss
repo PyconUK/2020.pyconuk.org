@@ -17,7 +17,7 @@ aside {
       font-family: Futura-Bold;
       text-transform: uppercase;
       letter-spacing: -0.02em;
-      font-size: 3em;
+      font-size: 2.75em;
       margin-top: 0.3em;
       margin-bottom: 0;
       line-height: 1.1;
@@ -28,14 +28,14 @@ aside {
     }
 
     h3 {
-//      margin-top: 0;
+//      font-size: 1.1em;
       font-weight: normal;
     }
 
     img {
       float: right;
       height: 150px;
-      margin-top: 10px;
+      margin-top: 5px;
     }
 
     .flip-horizontally {
@@ -71,4 +71,23 @@ aside {
 //    bottom: 0;
 //    z-index: -9;
 //  }
+
+  #action_items {
+    margin-bottom: 0;
+  }
+
+  #action_items a {
+    padding: 3px 9px;
+    display: inline-block;
+    color: white;
+    background: darken($blue, 5%);
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 7px;
+  }
+
+  #action_items a:hover {
+    background: darken($blue, 30%);
+  }
 }
