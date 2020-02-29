@@ -1,0 +1,63 @@
+<aside>
+  <div id="aside_inner">
+    <!--
+      This is an entirely frivolous thing: we randomly select a snake for
+      the user to see.  A gratuitous use of JavaScript!
+
+      But what if the user doesn't have JavaScript enabled?  Select a random
+      snake for the fallback, too -- it only gets reselected when we rebuild
+      with Jekyll, but means the snake will continue to rotate.
+    -->
+    {% assign snake_colours = "red|blue|yellow|green|orange" | split: "|" %}
+
+    <div id="header_snake">
+      <img src="/images/{{ snake_colours | sample: 1 }}_snake.png">
+    </div>
+
+    <script>
+      const colours = ["red", "blue", "yellow", "green", "orange"];
+
+      // https://stackoverflow.com/a/9071606/1558022
+      function choose(choices) {
+        var index = Math.floor(Math.random() * choices.length);
+        return choices[index];
+      }
+
+      const snakeColour = choose(colours);
+
+      if (Math.random() > 0.5) {
+        var imageHTML = "<img src=\"/images/" + snakeColour + "_snake.png\">";
+      } else {
+        var imageHTML = "<img class=\"flip-horizontally\" src=\"/images/" + snakeColour + "_snake.png\">";
+      }
+
+      document.getElementById("header_snake").innerHTML = imageHTML;
+    </script>
+
+    <h1>{{ site.title | escape }}</h1>
+
+    <h3>Cardiff City Hall<br/>Saturday 10th to Wednesday 14th October</h3>
+
+    <div id="aside_links">
+      <ul class="dot_list">
+        <li><a href="/">Home</a></li>
+        <li><a href="/sponsorship/">Become a sponsor</a></li>
+        <li><a href="/schedule/">Schedule</a></li>
+        <li><a href="/venue/">Venue</a></li>
+        <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+        <li><a href="/inclusion/">Inclusion</a></li>
+        <li><a href="/contact/">Contact Us</a></li>
+      </ul>
+    </div>
+
+    <!--
+      Buttons that are currently disabled, but we can turn on when we have
+      stuff to highlight.
+      -->
+    <!-- <p id="action_items">
+      <a href="/">Buy a ticket</a>
+      <a href="/">Submit a proposal</a>
+      <a href="/">Apply for financial assistance</a>
+    </p> -->
+  </div>
+</aside>

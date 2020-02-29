@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
+
+## PyCon UK will be returning to Cardiff City Hall from Saturday 10th to Wednesday 14th October 2020.
+
+More details coming soon!

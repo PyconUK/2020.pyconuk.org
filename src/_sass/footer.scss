@@ -1,0 +1,28 @@
+footer {
+  padding: 9vw 0 3vw;
+  margin-top: 9vw;
+  position: relative;
+  font-size: 80%;
+
+  #footer_inner {
+    text-align: center;
+    @include centred($max-width - 100px);
+    padding: 1px $default-padding;
+  }
+
+  a {
+    @include link_styles(black, 0.25);
+  }
+
+  &::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -9vw;
+    width:  0;
+    height: 0;
+    border-style: solid;
+    border-width: 7vw 100vw 0 0;
+    border-color: #fff transparent transparent transparent;
+  }
+}

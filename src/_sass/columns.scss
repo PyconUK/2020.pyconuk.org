@@ -1,0 +1,74 @@
+.row {
+  display: grid;
+  grid-template-columns: calc(50% - $default-padding / 2) calc(50% - $default-padding / 2);
+  grid-auto-flow: column;
+  grid-gap: $default-padding;
+
+  @media screen and (max-width: 500px) {
+    grid-template-columns: 100%;
+  }
+
+  .box {
+    &_left {
+      grid-column: 1 / 2;
+
+      @media screen and (max-width: 500px) {
+        grid-column: 1 / 1;
+        grid-row: 1 / 2;
+      }
+    }
+
+    &_right {
+      grid-column: 2 / 2;
+
+      @media screen and (max-width: 500px) {
+        grid-column: 1 / 1;
+        grid-row: 2 / 2;
+      }
+    }
+  }
+}
+
+.box {
+  border: 3px solid;
+  border-radius: 5px;
+  padding: $default-padding;
+  margin-bottom: 1em;
+
+  h2:first-child, h3:first-child, h4:first-child {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+  }
+
+  p:nth-child(2) {
+    margin-top: 0.5em;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  &_blue {
+    border-color: $blue;
+
+    h2, h3, h4 {
+      color: darken($blue, 10%);
+    }
+  }
+
+  &_red {
+    border-color: $red;
+
+    h2, h3, h4 {
+      color: $red;
+    }
+  }
+
+  &_yellow {
+    border-color: $yellow;
+
+    h2, h3, h4 {
+      color: darken($yellow, 25%);
+    }
+  }
+}
