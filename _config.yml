@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "PyCon UK 2020"
-email: devnull@example.com
 description: >-
   PyCon UK will be returning to Cardiff City Hall from Saturday 10th to Wednesday 14th October 2020.
   More details coming soon!
