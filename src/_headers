@@ -1,6 +1,0 @@
-# Set some custom Netlify headers; see
-# https://docs.netlify.com/routing/headers/#syntax-for-the-headers-file
-
-# Cache all the fonts forever, so they don't "pop" in on every page load.
-/theme/fonts/*
-    Cache-Control: "public, max-age=31536000" always;
