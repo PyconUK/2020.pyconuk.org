@@ -148,8 +148,8 @@ We have provision for people with hearing, vision and mobility requirements.
   <h3>Dietary requirements</h3>
 
   <p>
-    Vegan, vegetarian, lactose and gluten free options will be available on our lunch time menus.
-    Please contact us if you have any other dietary requirements.
+    Vegan, vegetarian, lactose and gluten-free options will be available on our lunch time menus.
+    Please <a href="/contact/">contact us</a> if you have any other dietary requirements.
   </p>
 
   <p>
