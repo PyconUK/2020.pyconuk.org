@@ -32,7 +32,7 @@ If you've attended PyCon UK previously, you may notice a few changes in 2020:
     (**Experience**)
 
 *   You'll have bought your ticket from a new company.
-    UKPA Tradiing Ltd is a brand new, wholly owned subsidiary of the UK Python Association.
+    UKPA Trading Ltd is a brand new, wholly owned subsidiary of the UK Python Association.
     All its profits are donated back the parent charity and we formed it in order to comply
     fully with current charity law and best practice.
     (**Liability**)
