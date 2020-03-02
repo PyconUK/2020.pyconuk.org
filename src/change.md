@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Change
+title: Changes to PyCon UK
 ---
 
 There are several reasons why we might make changes to how PyCon UK runs:
@@ -81,5 +81,6 @@ If you've attended PyCon UK previously, you may notice a few changes in 2020:
     In the past, we've asked organisers to present their projects at the beginning of the 
     day itself. This year, we're doing so a couple of days in advance so that anyone who
     might not have attended previously has the chance to hear what it's all about in time
-    to make arrangements to stay.
+    to make arrangements to stay. (We'll also run the introductions on the day itself, just
+    like we alway have in the past).
     (**Experience**)
