@@ -3,12 +3,21 @@ layout: default
 title: Schedule
 ---
 
-The conference will follow a similar format to previous years:
+The [outline schedule](https://pretalx.com/pycon-uk-2020/schedule/) for the conference 
+shows broadly what will be happening on each day.
 
-*   Saturday, Sunday, Monday and Tuesday will be **talks and workshops**.
-    We run multiple tracks in parallel, and everyone has a free choice of which sessions they attend.
+*   On Saturday, Sunday, Monday and Tuesday, there will be **Talk** and **Freestyle** sessions
+    running in parallel.
 
-*   Wednesday will be a **collaborative working day** (sometimes called a [code sprint](https://en.wikipedia.org/wiki/Hackathon#Code_sprints)).
-    People work together on projects of their choice, such as open-source libraries and applications.
+    At **Talk** sessions, a speaker (or possibly more than one) will give a talk to an audience and they
+    may take questions on their talk at the end.
+    At **Freestyle** sessions, the session organiser might deliver a tutorial or workshop, lead a discussion
+    or anything else they feel might be of interest.
 
-We will announce more details of the schedule, and how to submit proposals, closer to the event.
+    Everyone is free to attend whichever sessions they prefer (within the safe capacity of our rooms).
+
+*   On Wednesday, we will have an all-day **Collaboration** session where attendees can work
+    together on projects of their choosing.
+
+Anyone can propose the content for a **Talk** or **Freestyle** session when our Call for Proposals opens
+later in the year. 
