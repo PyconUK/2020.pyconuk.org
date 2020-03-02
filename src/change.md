@@ -81,5 +81,5 @@ If you've attended PyCon UK previously, you may notice a few changes in 2020:
     In the past, we've asked organisers to present their projects at the beginning of the 
     day itself. This year, we're doing so a couple of days in advance so that anyone who
     might not have attended previously has the chance to hear what it's all about in time
-    (**Experience**)
     to make arrangements to stay.
+    (**Experience**)
