@@ -9,9 +9,12 @@ If there is something you need, that's not described below, please [let us know]
 
 
 
-## Child care 👶
+## Minors
+PyCon UK will be a friendly environment for both adults and minors.
 
-PyCon UK will be a friendly environment for parents and babies.
+Those under the age of 18 will be welcome at all appropriate conference events, during
+breaks for refreshments and in the audience at talks (but must be accompanied at all times
+by a responsible adult).
 
 <style>
   .box_inclusion figure {
@@ -56,9 +59,6 @@ PyCon UK will be a friendly environment for parents and babies.
     We need you to register in advance, so that we can book the appropriate number of staff for the crèche.
   </p>
 
-  <p>
-    Children will be welcome at all appropriate conference events, during breaks for refreshments and in the audience at talks.
-  </p>
 </div>
 
 <div class="box box_red">
