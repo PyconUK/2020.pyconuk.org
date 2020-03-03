@@ -31,7 +31,7 @@ On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk**
     <h3>Social Events</h3>
 
     <p>We have the venue available in the evenings to use for social events and you are welcome to submit a proposal to run one of those.</p>
-    <p>In the past, we've had board games evenings, manual technology sessions, dojos, music and coding tutorials. Again, surprise us with something we've not seen before that will becoming the talking point of this year's conference!</p>
+    <p>In the past, we've had board games evenings, manual technology sessions, dojos, music and coding tutorials. Again, surprise us with something we've not seen before that will become the talking point of this year's conference!</p>
   </div>
 
   <div class="box box_right box_blue">
