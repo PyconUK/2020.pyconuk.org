@@ -30,4 +30,12 @@ On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk**
   </div>
 </div>
 
+## Suggestions
+In 2019, we asked for suggested topics that people would like to see covered at that year's conference and we used the results when we were scoring the proposals we received.
+
+We didn't feel it was necessary to ask for suggestions again so soon, so we'll be using those results again this year.
+
+You can see the questions we asked and the responses at the [2019 Topics](https://2019.pyconuk.org/call-proposals/topics-pycon-uk-2019/) page.
+
+## Selection
 We have a team who will each score your proposal and we make our selection based on those scores. If you would like to know whay they are looking for and how to ensure you get the best score possible, please read our [proposal guidelines](/cfp/guidelines/).
