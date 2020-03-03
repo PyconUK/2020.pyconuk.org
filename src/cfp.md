@@ -11,22 +11,33 @@ On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk**
   <div class="box box_left box_blue">
     <h3>Talk Sessions</h3>
 
+    <p>Talk sessions are 30 minutes long in a room with chairs arranged in rows. We have several rooms allocated to talk sessions and they vary in size from an audience of 500 in the Assembly Room to much smaller rooms which will around 50 people.</p>
+    <p>Most talks tend to be delivered by a single speaker, but we are happy to take proposals or talks being delivered by a small group.</p>
+    <p>You may choose whether you wish to take questions from the audience at the end of your talk. If you do, your session chair will run that for you and ensure that the questions are appropriate</p>
+    <p>All talk sessions are filmed and the video is uploaded to our [YouTube Channel](https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog) and later indexed on [PyVideo](https://pyvideo.org/events.html).</p>
   </div>
 
   <div class="box box_right box_red">
     <h3>Freestyle Sessions</h3>
 
+    <p>Freestyle sessions are 90 minutes long in a room with chairs arranged around circular tables. There is also a projector and screen for you to plug into your laptop if you need. The audiences are typically smaller for freestyle sessions and the rooms have capacity for around 30 people.</p>
+    <p>It's entirely up to you how you choose to use the room. Typical proposals are to run workshops or tutorials, deliver in-depth talks that won't fit into a 30 minute slot or lead discussions but you're more than welcome to propose something else entirely that we've never seen before.</p>
+    <p>Freestyle sessions are not filmed.</p>
   </div>
 </div>
 
 <div class="row">
   <div class="box box_left box_yellow">
     <h3>Social Events</h3>
+
+    <p>We have the venue available in the evenings to use for social events and you are welcome to submit a proposal to run one of those.</p>
+    <p>In the past, we've had board games evenings, manual technology sessions, dojos, music and coding tutorials. Again, surprise us with something we've not seen before that will becoming the talking point of this year's conference!</p>
   </div>
 
   <div class="box box_right box_blue">
     <h3>Something Else</h3>
 
+    <p>And if you have an idea for something that just doesn't fit with what we've described, we'd love to hear about it. Propose it anyway!</p>
   </div>
 </div>
 
