@@ -32,7 +32,7 @@ gem install jekyll bundler
 
 ### Installing project dependencies
 
-To install the projects dependenices run
+To install the projects dependencies run
 
 ```bash
 bundle install
@@ -45,9 +45,16 @@ export GEM_HOME="$HOME/gems"
 export PATH="$HOME/gems/bin:$PATH"
 ```
 
-### Running the project locally
+### Building the project locally
 
-You can now run the project locally.
+You can now build the project locally.
+
+```bash
+bundle exec jekyll build
+```
+
+This generates the directory `build` that contains all the files needed for the site.
+You can now run an http server in that directory or use jekyll to serve the project.
 
 ```bash
 bundle exec jekyll serve
@@ -55,5 +62,5 @@ bundle exec jekyll serve
 
 This will start a webserver on [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
 To view the website open [http://127.0.0.1:4000/](http://127.0.0.1:4000/) in your favorite web browser.
-
+This will also automatically rebuild the project when a change to the source is detected.
 
