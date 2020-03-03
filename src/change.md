@@ -93,5 +93,5 @@ If you've attended PyCon UK previously, you may notice a few changes in 2020:
     day itself. This year, we're doing so a couple of days in advance so that anyone who
     might not have attended previously has the chance to hear what it's all about in time
     to make arrangements to stay. (We'll also run the introductions on the day itself, just
-    like we alway have in the past).
+    like we always have in the past).
     (**Experience**)
