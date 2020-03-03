@@ -2,9 +2,7 @@
 PyCon UK 2020 website
 
 ## Building Locally
-### Requirements
-
-### Jekyll's Requirements
+### Installing Jekyll
 
 This site is made using [Jekyll](https://jekyllrb.com).
 Jekyll is a static site generator written in ruby.
@@ -26,15 +24,13 @@ If RugbyGems is not installed an you run `gem -v` you should get an error like t
 
 See the [Jekyll documentation](https://jekyllrb.com/docs/installation/) for more information on install Jekyll and its requirements.
 
-### Installing Jekyll
-
 Now that you have all of Jekyll's requirements installed you can install Jekyll itself.
 
 ```bash
 gem install jekyll bundler
 ```
 
-## Installing project dependencies
+### Installing project dependencies
 
 To install the projects dependenices run
 
@@ -49,7 +45,7 @@ export GEM_HOME="$HOME/gems"
 export PATH="$HOME/gems/bin:$PATH"
 ```
 
-## Running the project locally
+### Running the project locally
 
 You can now run the project locally.
 
