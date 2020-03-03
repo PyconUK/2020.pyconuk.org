@@ -12,7 +12,7 @@ shows broadly what will be happening on each day.
     At **Talk** sessions, a speaker (or possibly more than one) will give a talk to an audience and they
     may take questions on their talk at the end.
     At **Freestyle** sessions, the session organiser might deliver a tutorial or workshop, lead a discussion
-    or anything else they feel might be of interest.
+    , give a more in-depth talk than 30 minutes would allow or anything else they feel might be of interest.
 
     Everyone is free to attend whichever sessions they prefer (within the safe capacity of our rooms).
 
