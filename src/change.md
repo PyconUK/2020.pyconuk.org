@@ -50,8 +50,10 @@ If you've attended PyCon UK previously, you may notice a few changes in 2020:
 
 *   If you are under the age of 18, you must be accompanied by a responsible adult to attend the conference.
 
-    There are simply too many potential issues for us to allow unaccompanied minors to attend
-    any more.
+    We've always said this for those attending our Young Coders events but we've never explicitly
+    said that it also applies to the rest of the conference (or, in fact, said anything at all on the matter).
+    This year, we're making it clear that all minors attending the conference must be accompanied
+    by a responsible adult no matter what day or event.
     (**Liability**)
 
 *   There is professional looking video kit and lighting around.
