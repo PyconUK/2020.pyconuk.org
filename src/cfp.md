@@ -21,7 +21,7 @@ On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk**
     <p>All talk sessions are filmed and the video is uploaded to our <a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog">YouTube Channel</a> and later indexed on <a href="https://pyvideo.org/events.html">PyVideo</a>.</p>
   </div>
 
-  <div class="box box_right box_red">
+  <div class="box box_right box_yellow">
     <h3>Freestyle Sessions</h3>
 
     <p>Freestyle sessions are 90 minutes long in a room with chairs arranged around circular tables. There is also a projector and screen for you to plug into your laptop if you need. The audiences are typically smaller for freestyle sessions and the rooms have capacity for around 30 people.</p>
