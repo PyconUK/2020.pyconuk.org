@@ -24,15 +24,15 @@ On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk**
 <div class="row">
   <div class="box box_left box_blue">
     <h3>Talk Sessions</h3>
+    <p>Talk sessions are 30 minutes long in a room with chairs arranged in rows. We have several rooms allocated to talk sessions and they vary in size from an audience of 500 in the Assembly Room to much smaller rooms which will seat around 50 people.</p>
+    <p>Most talks tend to be delivered by a single speaker, but we are happy to take proposals or talks being delivered by a small group.</p>
+    <p>You may choose whether you wish to take questions from the audience at the end of your talk. If you do, your session chair will run that for you and ensure that the questions are appropriate</p>
+    <p>All talk sessions are filmed and the video is uploaded to our <a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog">YouTube Channel</a> and later indexed on <a href="https://pyvideo.org/events.html">PyVideo</a>.</p>
     <img src="/images/talk.jpg" alt="Keynote speaker from PyCon UK 2019 with audience members in the foreground">
     <figcaption>
       Keynote talk session at PyCon UK 2019
       Photo by <a href="https://www.flickr.com/photos/152472562@N06/37919454202/">Mark Hawkins</a>, CC BY.
     </figcaption>
-    <p>Talk sessions are 30 minutes long in a room with chairs arranged in rows. We have several rooms allocated to talk sessions and they vary in size from an audience of 500 in the Assembly Room to much smaller rooms which will seat around 50 people.</p>
-    <p>Most talks tend to be delivered by a single speaker, but we are happy to take proposals or talks being delivered by a small group.</p>
-    <p>You may choose whether you wish to take questions from the audience at the end of your talk. If you do, your session chair will run that for you and ensure that the questions are appropriate</p>
-    <p>All talk sessions are filmed and the video is uploaded to our <a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog">YouTube Channel</a> and later indexed on <a href="https://pyvideo.org/events.html">PyVideo</a>.</p>
   </div>
 
   <div class="box box_right box_yellow">
