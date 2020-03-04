@@ -37,11 +37,16 @@ On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk**
 
   <div class="box box_right box_yellow">
     <h3>Freestyle Sessions</h3>
-
     <p>Freestyle sessions are 90 minutes long in a room with chairs arranged around circular tables. There is also a projector and screen for you to plug into your laptop if you need. The audiences are typically smaller for freestyle sessions and the rooms have capacity for around 30 people.</p>
     <p>It's entirely up to you how you choose to use the room. Typical proposals are to run workshops or tutorials, deliver in-depth talks that won't fit into a 30 minute slot or lead discussions but you're more than welcome to propose something else entirely that we've never seen before.</p>
     <p>You may also request to run your event over more than one session. This effectively means that the room is yours for the day to use as you see fit.</p>
     <p>Freestyle sessions are not filmed.</p>
+    <img src="/images/workshop.jpg" alt="A workshop session from PyCon UK 2019 showing people working at a table and a workshop leader talking in front of a projector screen">
+    <figcaption>
+      A workshop session from PyCon UK 2019
+      Photo by <a href="https://www.flickr.com/photos/152472562@N06/37919454202/">Mark Hawkins</a>, CC BY.
+    </figcaption>
+
   </div>
 </div>
 
