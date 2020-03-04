@@ -2,8 +2,18 @@
 layout: default
 title: Call for Proposals
 ---
+<style>
+#cfp_alert {
+  text-align: center;
+}
+
+#cfp_alert h2 {
+  margin-bottom: 0;
+}
+</style>
+
 <div class="row">
-  <div class="box box_red">
+  <div class="box box_red" id="cfp_alert">
     <h2 class="centred">Our Call for Proposals will open later in the year.</h2>
   </div>
 </div>
