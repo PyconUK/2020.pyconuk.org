@@ -3,7 +3,7 @@ layout: default
 title: Call for Proposals
 ---
 <div class="row">
-  <div class="box box_red">
+  <div class="box box_red centred">
     <h2>Our Call for Proposals will open later in the year.</h2>
   </div>
 </div>
