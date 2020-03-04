@@ -2,7 +2,21 @@
 layout: default
 title: Call for Proposals
 ---
+<style>
+#cfp_alert {
+  text-align: center;
+}
 
+#cfp_alert h2 {
+  margin-bottom: 0;
+}
+</style>
+
+<div class="row">
+  <div class="box box_red" id="cfp_alert">
+    <h2 class="centred">Our Call for Proposals will open later in the year.</h2>
+  </div>
+</div>
 We welcome proposals from everyone. You don't need to be an expert, or an expert speaker. Below you can find about what kind of proposals we're seeking, but if you're in any doubt whether you should, please read [why you should submit a proposal](/cfp/why/).
 
 On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk** and **Freestyle** sessions and you'll be asked whether you are proposing to run one of those, a social event or something completely different:
@@ -17,7 +31,7 @@ On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk**
     <p>All talk sessions are filmed and the video is uploaded to our <a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog">YouTube Channel</a> and later indexed on <a href="https://pyvideo.org/events.html">PyVideo</a>.</p>
   </div>
 
-  <div class="box box_right box_red">
+  <div class="box box_right box_yellow">
     <h3>Freestyle Sessions</h3>
 
     <p>Freestyle sessions are 90 minutes long in a room with chairs arranged around circular tables. There is also a projector and screen for you to plug into your laptop if you need. The audiences are typically smaller for freestyle sessions and the rooms have capacity for around 30 people.</p>
