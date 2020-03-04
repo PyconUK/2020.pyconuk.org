@@ -2,7 +2,11 @@
 layout: default
 title: Call for Proposals
 ---
-
+<div class="row">
+  <div class="box box_red">
+    <h2>Our Call for Proposals will open later in the year.</h2>
+  </div>
+</div>
 We welcome proposals from everyone. You don't need to be an expert, or an expert speaker. Below you can find about what kind of proposals we're seeking, but if you're in any doubt whether you should, please read [why you should submit a proposal](/cfp/why/).
 
 On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk** and **Freestyle** sessions and you'll be asked whether you are proposing to run one of those, a social event or something completely different:
