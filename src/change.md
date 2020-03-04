@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Changes to PyCon UK
+title: The 'Diff Diff
 ---
 
 There are several reasons why we might make changes to how PyCon UK runs:
