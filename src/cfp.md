@@ -3,8 +3,8 @@ layout: default
 title: Call for Proposals
 ---
 <div class="row">
-  <div class="box box_red centred">
-    <h2>Our Call for Proposals will open later in the year.</h2>
+  <div class="box box_red">
+    <h2 class="centred">Our Call for Proposals will open later in the year.</h2>
   </div>
 </div>
 We welcome proposals from everyone. You don't need to be an expert, or an expert speaker. Below you can find about what kind of proposals we're seeking, but if you're in any doubt whether you should, please read [why you should submit a proposal](/cfp/why/).
