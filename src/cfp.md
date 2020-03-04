@@ -24,7 +24,7 @@ On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk**
 <div class="row">
   <div class="box box_left box_blue">
     <h3>Talk Sessions</h3>
-    <img src="images/talk.jpg" alt="Keynote speaker from PyCon UK 2019 with audience members in the foreground">
+    <img src="/images/talk.jpg" alt="Keynote speaker from PyCon UK 2019 with audience members in the foreground">
     <figcaption>
       Keynote talk session at PyCon UK 2019
       Photo by <a href="https://www.flickr.com/photos/152472562@N06/37919454202/">Mark Hawkins</a>, CC BY.
