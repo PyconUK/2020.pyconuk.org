@@ -31,7 +31,7 @@ On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk**
     <p>We'll be running a webinar on how to prepare and deliver a successful talk. If your talk proposal is accepted, we'll send you an invitation to that session.</p>
     <img src="/images/talk.jpg" alt="Keynote speaker from PyCon UK 2019 with audience members in the foreground">
     <figcaption>
-      Keynote talk session at PyCon UK 2019
+      A talk session at PyCon UK 2019
       Photo by <a href="https://www.flickr.com/photos/152472562@N06/37919454202/">Mark Hawkins</a>, CC BY.
     </figcaption>
   </div>
