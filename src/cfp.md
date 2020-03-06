@@ -29,11 +29,13 @@ On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk**
     <p>You may choose whether you wish to take questions from the audience at the end of your talk. If you do, your session chair will run that for you and ensure that the questions are appropriate</p>
     <p>All talk sessions are filmed and the video is uploaded to our <a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog">YouTube Channel</a> and later indexed on <a href="https://pyvideo.org/events.html">PyVideo</a>.</p>
     <p>We'll be running a webinar on how to prepare and deliver a successful talk. If your talk proposal is accepted, we'll send you an invitation to that session.</p>
+    <!--
     <img src="/images/talk.jpg" alt="Keynote speaker from PyCon UK 2019 with audience members in the foreground">
     <figcaption>
       A talk session at PyCon UK 2019
       Photo by <a href="https://www.flickr.com/photos/152472562@N06/37919454202/">Mark Hawkins</a>, CC BY.
     </figcaption>
+    -->
   </div>
 
   <div class="box box_right box_yellow">
@@ -42,12 +44,13 @@ On our [schedule](https://pretalx.com/pycon-uk-2020/schedule/), we have **Talk**
     <p>It's entirely up to you how you choose to use the room. Typical proposals are to run workshops or tutorials, deliver in-depth talks that won't fit into a 30 minute slot or lead discussions but you're more than welcome to propose something else entirely that we've never seen before.</p>
     <p>You may also request to run your event over more than one session. This effectively means that the room is yours for the day to use as you see fit.</p>
     <p>Freestyle sessions are not filmed.</p>
+    <!--
     <img src="/images/workshop.jpg" alt="A workshop session from PyCon UK 2019 showing people working at a table and a workshop leader talking in front of a projector screen">
     <figcaption>
       A workshop session from PyCon UK 2019
       Photo by <a href="https://www.flickr.com/photos/152472562@N06/37919454202/">Mark Hawkins</a>, CC BY.
     </figcaption>
-
+    -->
   </div>
 </div>
 
