@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "PyCon UK 2020"
 description: >-
-  PyCon UK will be returning to Cardiff City Hall from Saturday 10th to Wednesday 14th October 2020.
+  PyCon UK 2020 is cancelled - PyCon UK will be returning to Cardiff City Hall in 2021.
   More details coming soon!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2020.pyconuk.org" # the base hostname & protocol for your site, e.g. http://example.com
